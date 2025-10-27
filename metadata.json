@@ -1,0 +1,5 @@
+{
+  "name": "Video Storyboard & Prompt Generator",
+  "description": "An AI-powered tool to generate a detailed storyboard and a final video prompt based on user inputs. Ideal for creative directors and video specialists to quickly visualize and script video concepts.",
+  "requestFramePermissions": []
+}
